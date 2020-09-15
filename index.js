@@ -1,7 +1,10 @@
 var kittens = [] //define your array here
 
 // Add your functions and code here
-function appendKittens ()
+function appendKitten()
 {
-  var kittens == ["Milo", "Otis", "Garfield"]
+  var kittens = ["Milo", "Otis", "Garfield"]
+  
+  return kittens
 }
+
